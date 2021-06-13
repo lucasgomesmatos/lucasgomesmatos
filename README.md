@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey guys<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Gomes</h1>
 <h3 align="center">I'm a programming student, constantly evolving.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgomesmatos" alt="lucasgomesmatos" /> </p>
 
 
 - 👨‍💻 All of my projects are available at (https://github.com/lucasgomesmatos)
