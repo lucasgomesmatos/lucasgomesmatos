@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgomesmatos&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Programming student, passionate about technology and constantly evolving.
-- 👨‍💻 All of my projects are available at [lucasgomesmatos](https://lucasgomesmatos)
+- 👨‍💻 All of my projects are available at [lucasgomesmatos](https://blog-pessoal-one.vercel.app/)
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, PHP**
 - 📫 How to reach me **lucasgomesmatosdev@gmail.com**
 
