@@ -10,7 +10,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack. 
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;![Node.js](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
