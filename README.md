@@ -2,7 +2,7 @@
 <h1 align="left">Hey, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50" width="50px" > What's up?</h1>
 
 ###
-<p align="left">Software developer working with frontend development since 2020, using mainly HTML, CSS and JavaScript . Currently studying and practicing, always looking for evolution.<br><br>I'm always looking for new learning and willing to help anyone interested in starting in the development area.</p>
+<p align="left">Software developer working with frontend development since 2020, using mainly HTML, CSS, JavaScript and React Js. Currently studying and practicing, always looking for evolution.<br><br>I'm always looking for new learning and willing to help anyone interested in starting in the development area.</p>
 
 ###
 ## 🛠 &nbsp;Tech Stack. 
