@@ -3,7 +3,7 @@
 <h1 align="left">Hey, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="50" width="50px" > What's up?</h1>
 
 ###
-<p align="left">Software developer working with front end development since 2020, using mainly HTML, CSS, JavaScript and React Js. Currently studying and practicing, always looking for evolution.<br><br>I'm always looking for new learning and willing to help anyone interested in starting in the development area.</p>
+<p align="left">Como desenvolvedor de software experiente com habilidades em TypeScript, Java, React, Spring Boot e Git, estou sempre buscando novas oportunidades para aplicar minhas habilidades e conhecimentos em projetos desafiadores. Com um sólido histórico de trabalho em equipes colaborativas, tenho um compromisso com a excelência e uma paixão pela resolução de problemas. Sou dedicado a produzir código limpo, eficiente e bem estruturado, e estou sempre em busca de maneiras de melhorar meu desempenho e aprimorar minhas habilidades técnicas</p>
 
 ###
 ## 🛠 &nbsp;Tech Stack. 
