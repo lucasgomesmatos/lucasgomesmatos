@@ -1,6 +1,6 @@
 
 
-<h1 align="left">👋  Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1 align="left">👋  Olá, eu sou o Lucas, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 
 ###
 <p align="left">Como desenvolvedor de software experiente com habilidades em TypeScript, Java, React, Spring Boot e Git, estou sempre buscando novas oportunidades para aplicar minhas habilidades e conhecimentos em projetos desafiadores. Com um sólido histórico de trabalho em equipes colaborativas, tenho um compromisso com a excelência e uma paixão pela resolução de problemas. Sou dedicado a produzir código limpo, eficiente e bem estruturado, e estou sempre em busca de maneiras de melhorar meu desempenho e aprimorar minhas habilidades técnicas</p>
