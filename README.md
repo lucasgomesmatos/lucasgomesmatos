@@ -6,7 +6,7 @@
 
 
 ## My name is Lucas Gomes Matos
-(React JS | Spring Boot | Sass | JS | HTML | CSS | Typescript | Java| Styled Components | GraphQL | Redux ) 🚀
+(React JS | Spring Boot | Sass | JS | HTML | CSS | Typescript | Java | Styled Components | Redux ) 🚀
 - Software Developer @[DTI](https://dtidigital.com.br)
 - Information Systems Student
 - Passionate about web development
