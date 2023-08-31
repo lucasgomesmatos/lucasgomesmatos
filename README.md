@@ -1,5 +1,5 @@
 
-<h1>Hi guys 🖐️</h1>
+<h1>Hi guys </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomesmatos-5958a61a9/)](https://www.linkedin.com/in/lucas-gomes-matos/)
 [![Gmail Badge](https://img.shields.io/badge/-lucasgomesmatosdev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgomesmatosdev@gmail.com)](mailto:lucasgomesmatosdev@gmail.com)
