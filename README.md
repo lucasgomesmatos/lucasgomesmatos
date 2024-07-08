@@ -1,15 +1,10 @@
+# Lucas Matos
 
-<h1>Hi guys </h1>
+Software Developer @[dti](https://dtidigital.com.br)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Matos-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomesmatos/)](https://www.linkedin.com/in/lucasgomesmatos/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucasgomesmatosdev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgomesmatosdev@gmail.com)](mailto:lucasgomesmatosdev@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomesmatos-5958a61a9/)](https://www.linkedin.com/in/lucas-gomes-matos/)
-[![Gmail Badge](https://img.shields.io/badge/-lucasgomesmatosdev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgomesmatosdev@gmail.com)](mailto:lucasgomesmatosdev@gmail.com)
+Enthusiast of the best web & mobile development technologies.
 
-
-## My name is Lucas Gomes Matos
-(React JS | Spring Boot | JS | HTML | CSS | Typescript | Java | Styled Components | Redux ) 🚀
-- Software Developer @[DTI](https://dtidigital.com.br)
-- Information Systems Student
-- Passionate about web development
-- Always thirst for learning, knowledge and experience 🔥
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgomesmatos&hide=TeX&layout=compact)
+🚀 "Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
