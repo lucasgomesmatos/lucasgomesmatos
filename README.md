@@ -1,4 +1,4 @@
-# Lucas Matos
+# Lucas Gomes Matos
 
 Software Developer @[dti](https://dtidigital.com.br)
  
