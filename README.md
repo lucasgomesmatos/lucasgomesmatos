@@ -1,6 +1,6 @@
 # Lucas Gomes Matos
 
-Software Developer @[dti](https://dtidigital.com.br)
+Software Developer
  
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Matos-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgomesmatos/)](https://www.linkedin.com/in/lucas-gomes-matos/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucasgomesmatosdev@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgomesmatosdev@gmail.com)](mailto:lucasgomesmatosdev@gmail.com)
